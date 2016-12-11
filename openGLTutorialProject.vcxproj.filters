@@ -13,10 +13,14 @@
     <ClCompile Include="Display.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Display.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="Mesh.h" />
   </ItemGroup>
 </Project>
