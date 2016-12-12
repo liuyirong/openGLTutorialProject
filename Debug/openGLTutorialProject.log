@@ -1,5 +1,7 @@
-﻿  Mesh.cpp
+﻿  Shader.cpp
+  Mesh.cpp
   main.cpp
+  Display.cpp
   Generating Code...
   openGLTutorialProject.vcxproj -> F:\vs2015study\openGLTutorialProject\Debug\openGLTutorialProject.exe
   openGLTutorialProject.vcxproj -> F:\vs2015study\openGLTutorialProject\Debug\openGLTutorialProject.pdb (Full PDB)
